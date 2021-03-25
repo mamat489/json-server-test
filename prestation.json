@@ -1,0 +1,16 @@
+{
+  "prestation": [
+    { "id": "0046", "description": "RECLAMTION NON FONDEE SUR OPPOSITION CARTE"},
+    { "id": "0047", "description": "DIVERS CARTES"},
+    { "id": "0286", "description": "FACTURATION VISUEL - 1ERE CARTE"},
+    { "id": "0421", "description": "IZICARTE VISA BLEUE DEBIT IMMEDIAT"},
+    { "id": "0056", "description": "RECLAMTION NON FONDEE SUR OPPOSITION CARTE"},
+    { "id": "0874", "description": "DIVERS CARTES"},
+    { "id": "0286", "description": "FACTURATION VISUEL - 1ERE CARTE"},
+    { "id": "5651", "description": "IZICARTE VISA BLEUE DEBIT IMMEDIAT"},
+    { "id": "0126", "description": "RECLAMTION NON FONDEE SUR OPPOSITION CARTE"},
+    { "id": "0457", "description": "DIVERS CARTES"},
+    { "id": "0256", "description": "FACTURATION VISUEL - 1ERE CARTE"},
+    { "id": "0221", "description": "IZICARTE VISA BLEUE DEBIT IMMEDIAT"}
+  ]
+}

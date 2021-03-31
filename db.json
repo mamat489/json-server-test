@@ -1,16 +1,46 @@
 {
   "prestation": [
-    { "id": "0046", "description": "RECLAMTION NON FONDEE SUR OPPOSITION CARTE"},
-    { "id": "0047", "description": "DIVERS CARTES"},
-    { "id": "0286", "description": "FACTURATION VISUEL - 1ERE CARTE"},
-    { "id": "0421", "description": "IZICARTE VISA BLEUE DEBIT IMMEDIAT"},
-    { "id": "0056", "description": "RECLAMTION NON FONDEE SUR OPPOSITION CARTE"},
-    { "id": "0874", "description": "DIVERS CARTES"},
-    { "id": "0286", "description": "FACTURATION VISUEL - 1ERE CARTE"},
-    { "id": "5651", "description": "IZICARTE VISA BLEUE DEBIT IMMEDIAT"},
-    { "id": "0126", "description": "RECLAMTION NON FONDEE SUR OPPOSITION CARTE"},
-    { "id": "0457", "description": "DIVERS CARTES"},
-    { "id": "0256", "description": "FACTURATION VISUEL - 1ERE CARTE"},
-    { "id": "0221", "description": "IZICARTE VISA BLEUE DEBIT IMMEDIAT"}
+    { "prestation": "0046 - PRESTATION - RECLAMATION NON FONDEE SUR OPPOSITION CARTE"},
+    { "prestation": "0047 - PRESTATION - DIVERS CARTES"},
+    { "prestation": "0286 - PRESTATION - FACTURATION VISUEL - PRESTATION - 1ERE CARTE"},
+    { "prestation": "0421 - PRESTATION - IZICARTE VISA BLEUE DEBIT IMMEDIAT"},
+    { "prestation": "0056 - PRESTATION - RECLAMTION NON FONDEE SUR OPPOSITION CARTE"},
+    { "prestation": "0874 - PRESTATION - DIVERS CARTES"},
+    { "prestation": "0286 - PRESTATION - FACTURATION VISUEL - PRESTATION - 1ERE CARTE"},
+    { "prestation": "5651 - PRESTATION - IZICARTE VISA BLEUE DEBIT IMMEDIAT"},
+    { "prestation": "0126 - PRESTATION - RECLAMTION NON FONDEE SUR OPPOSITION CARTE"},
+    { "prestation": "0457 - PRESTATION - DIVERS CARTES"},
+    { "prestation": "0256 - PRESTATION - FACTURATION VISUEL - PRESTATION - 1ERE CARTE"},
+    { "prestation": "0221 - PRESTATION - IZICARTE VISA BLEUE DEBIT IMMEDIAT"}
+  ],
+
+  "offre": [
+    { "offre": "0046 - OFFRE - RECLAMATION NON FONDEE SUR OPPOSITION CARTE"},
+    { "offre": "0047 - OFFRE - DIVERS CARTES"},
+    { "offre": "0286 - OFFRE - FACTURATION VISUEL - OFFRE - 1ERE CARTE"},
+    { "offre": "0421 - OFFRE - IZICARTE VISA BLEUE DEBIT IMMEDIAT"},
+    { "offre": "0056 - OFFRE - RECLAMTION NON FONDEE SUR OPPOSITION CARTE"},
+    { "offre": "0874 - OFFRE - DIVERS CARTES"},
+    { "offre": "0286 - OFFRE - FACTURATION VISUEL - OFFRE - 1ERE CARTE"},
+    { "offre": "5651 - OFFRE - IZICARTE VISA BLEUE DEBIT IMMEDIAT"},
+    { "offre": "0126 - OFFRE - RECLAMTION NON FONDEE SUR OPPOSITION CARTE"},
+    { "offre": "0457 - OFFRE - DIVERS CARTES"},
+    { "offre": "0256 - OFFRE - FACTURATION VISUEL - OFFRE - 1ERE CARTE"},
+    { "offre": "0221 - OFFRE - IZICARTE VISA BLEUE DEBIT IMMEDIAT"}
+  ],
+
+  "code-produit": [
+    { "code-produit": "0046 - CODE PRODUIT - RECLAMATION NON FONDEE SUR OPPOSITION CARTE"},
+    { "code-produit": "0047 - CODE PRODUIT - DIVERS CARTES"},
+    { "code-produit": "0286 - CODE PRODUIT - FACTURATION VISUEL - CODE PRODUIT - 1ERE CARTE"},
+    { "code-produit": "0421 - CODE PRODUIT - IZICARTE VISA BLEUE DEBIT IMMEDIAT"},
+    { "code-produit": "0056 - CODE PRODUIT - RECLAMTION NON FONDEE SUR OPPOSITION CARTE"},
+    { "code-produit": "0874 - CODE PRODUIT - DIVERS CARTES"},
+    { "code-produit": "0286 - CODE PRODUIT - FACTURATION VISUEL - CODE PRODUIT - 1ERE CARTE"},
+    { "code-produit": "5651 - CODE PRODUIT - IZICARTE VISA BLEUE DEBIT IMMEDIAT"},
+    { "code-produit": "0126 - CODE PRODUIT - RECLAMTION NON FONDEE SUR OPPOSITION CARTE"},
+    { "code-produit": "0457 - CODE PRODUIT - DIVERS CARTES"},
+    { "code-produit": "0256 - CODE PRODUIT - FACTURATION VISUEL - CODE PRODUIT - 1ERE CARTE"},
+    { "code-produit": "0221 - CODE PRODUIT - IZICARTE VISA BLEUE DEBIT IMMEDIAT"}
   ]
 }
